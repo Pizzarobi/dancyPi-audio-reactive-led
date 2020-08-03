@@ -1,3 +1,21 @@
+# Roberts Fork of audio-reactive-led
+
+The Goal of this Repo is to add new animations and visualizations.
+
+### Ideas:
+- Spectrum with 3 different Zones. (Color Coded)
+- Spectrum with as many zones as used by code. 
+- Fix or change overlapping frequencies. (Causing Strip to be white)
+- VisConfig.py for configuring said Visualizations more easily (Or add to config.py)
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+
+# The items below were untouched from the forked project by Naztronaut
+
+------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+
 # Dancy Pi: Audio Reactive LEDs
 
 This repo is my implementation of Scott Lawson's work. I did my best to simplify the installation process. The original Readme text can be found below my updated Readme. 
